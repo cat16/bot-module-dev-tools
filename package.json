@@ -1,0 +1,23 @@
+{
+  "name": "bot-module-dev-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "typescript": "^3.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat16/bot-module-dev-tools.git"
+  },
+  "author": "cat16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat16/bot-module-dev-tools/issues"
+  },
+  "homepage": "https://github.com/cat16/bot-module-dev-tools#readme"
+}
